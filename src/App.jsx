@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div> Mr Wish </div>
+      <div className="bold underline"> Mr Wish </div>
     </>
   )
 }
